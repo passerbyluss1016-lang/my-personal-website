@@ -97,7 +97,7 @@ export default function Home() {
   alt="Hobbies"
   className="h-72 w-full object-contain"
 />
-          <div className="mt-5 flex justify-between">
+         <div className="mt-5 flex justify-between">
             <h3 className="text-xl tracking-widest">HOBBIES</h3>
             <span>↗</span>
           </div>
