@@ -55,7 +55,7 @@ export default function Home() {
           className="group border-t border-gray-300 pt-5"
         >
           <img
-  src="/images/life.jpg"
+  src="/images/life.JPG"
   alt="Life"
   className="h-72 w-full object-contain"
 />
@@ -74,7 +74,7 @@ export default function Home() {
           className="group border-t border-gray-300 pt-5"
         >
           <img
-  src="/images/idols.jpg"
+  src="/images/idols.JPG"
   alt="Idols"
   className="h-72 w-full object-contain"
 />
@@ -93,7 +93,7 @@ export default function Home() {
           className="group border-t border-gray-300 pt-5"
         >
           <img
-  src="/images/hobbies.jpg"
+  src="/images/hobbies.JPG"
   alt="Hobbies"
   className="h-72 w-full object-contain"
 />
